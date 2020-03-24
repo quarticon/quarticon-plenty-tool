@@ -1,0 +1,26 @@
+{
+    "version": "1.0.0",
+    "name": "Quarticon",
+    "isExternalTool": true,
+    "pluginIcon": "icon_plugin_xs.png",
+    "description": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests.",
+    "author": "Quarticon S.A",
+    "email": "adrian.bera@quarticon.com",
+    "phone": "+48 884 636 875",
+    "authorIcon": "icon_author_xs.png",
+    "type": "tool",
+    "directDownloadLinks": {
+        "Windows": "https://platforms.quarticon.com/plentymarkets",
+        "MacOs": "https://platforms.quarticon.com/plentymarkets",
+        "Linux": "https://platforms.quarticon.com/plentymarkets"
+    },
+    "forwardLink": "https://platforms.quarticon.com/plentymarkets",
+    "require": [],
+    "namespace": "Quarticon",
+    "serviceProvider": "Quarticon",
+    "javaScriptFiles": [],
+    "containers": [],
+    "dataProviders": [],
+    "dependencies": [],
+    "runOnBuild": []
+}
