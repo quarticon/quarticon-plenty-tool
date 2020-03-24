@@ -9,6 +9,28 @@
     "phone": "+48 884 636 875",
     "authorIcon": "icon_author_xs.png",
     "type": "tool",
+    "marketplaceName": {
+        "de": "Quarticon Recomendation Engine",
+        "en": "Quarticon Recomendation Engine"
+    },
+    "license": "UNLICENCED",
+    "price": 0.00,
+    "shortDescription": {
+        "de": "KI-basiertes Tool, mit dem Ihr Online-Shop Produkte anzeigt, die auf die individuellen Bedürfnisse, Erwartungen und Interessen jedes Kunden zugeschnitten sind.",
+        "en": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests."
+    },
+    "categories": [
+        "3527",
+        "4090",
+        "4086"
+    ],
+    "keywords": [
+        "quarticon",
+        "AI",
+        "recomendation engine",
+        "recomentadions",
+        "smart"
+    ],
     "directDownloadLinks": {
         "Windows": "https://platforms.quarticon.com/plentymarkets",
         "MacOs": "https://platforms.quarticon.com/plentymarkets",
