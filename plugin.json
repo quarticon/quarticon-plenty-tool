@@ -3,7 +3,7 @@
     "name": "Quarticon",
     "isExternalTool": true,
     "pluginIcon": "icon_plugin_xs.png",
-    "description": "AI-based Smart Search engine and personalised product recommendation engine for your online shop",
+    "description": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests.",
     "author": "Quarticon S.A",
     "email": "adrian.bera@quarticon.com",
     "phone": "+48 884 636 875",
@@ -16,9 +16,19 @@
     "license": "UNLICENCED",
     "price": 0.00,
     "shortDescription": {
-        "de": "AI-basierte intelligente Suchmaschine und personalisierte Produktempfehlungsmaschine für Ihren Online-Shop",
-        "en": "AI-based Smart Search engine and personalised product recommendation engine for your online shop"
+        "de": "KI-basiertes Tool, mit dem Ihr Online-Shop Produkte anzeigt, die auf die individuellen Bedürfnisse, Erwartungen und Interessen jedes Kunden zugeschnitten sind.",
+        "en": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests."
     },
+    "categories": [
+        "3527"
+    ],
+    "keywords": [
+        "quarticon",
+        "AI",
+        "recomendation engine",
+        "recomentadions",
+        "smart"
+    ],
     "directDownloadLinks": {
         "Windows": "https://platforms.quarticon.com/plentymarkets",
         "MacOs": "https://platforms.quarticon.com/plentymarkets",
