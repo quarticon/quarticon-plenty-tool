@@ -35,5 +35,3 @@ Die QuarticOn-Technologie basiert auf Cloud Computing, Big Data und Algorithmen 
 -   Ähnliche Produkte: der Empfehlungsrahmen zeigt dem Benutzer Produkte an, die am häufigsten von anderen Benutzern angezeigt werden, zusammen mit den aktuell angezeigten Produkten
 -   Zuvor angezeigt: der Empfehlungsrahmen zeigt dem Benutzer Produkte an, die er zuvor während der aktuellen Sitzung angezeigt hat
 -   Verlassener Warenkorb: der Empfehlungsrahmen zeigt dem Benutzer Produkte an, die beim letzten Mal in den Warenkorb gelegt, aber nicht gekauft wurden
-
-Probieren Sie die QuarticOn-App aus und genießen Sie alle ihre Möglichkeiten. Besuchen Sie /diese/ Website für weitere Informationen.

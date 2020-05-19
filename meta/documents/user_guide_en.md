@@ -40,5 +40,3 @@ QuarticOn technology is based on cloud computing, big data and artificial intell
 - Similar products: recommendation frame will display to the user products that are most often displayed by other users, together with the products currently viewed
 - Previously viewed: recommendation frame will display to the user products they previously viewed during the current session
 - Abandoned cart: recommendation frame will display to the user products that were added to their cart last time but were not purchased
-
-Check the QuarticOn application and take advantage of all its possibilities. Visit /this/ website for more information.
